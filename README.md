@@ -1,4 +1,12 @@
 # Quiz 2 (KsqlDB)
+## Member
+1. 6420412006 Natthawit Chairatanatrai 
+2. 6420412008 Sirirat Lueprasert 
+3. 6420412009 Sapol Sarub 
+4. 6420412010 Natnicha Sabdasen 
+5. 6510412009 Jirapat Atikomtrirat
+
+
 ## Follow these step
 
 1. Download the folder Quiz2 and extract files
