@@ -60,3 +60,8 @@ $ docker-compose exec elasticsearch curl -XGET "localhost:9200/topic3/_search?fo
 docker-compose down
 
 ```
+
+##Visualization
+
+
+![ff](https://user-images.githubusercontent.com/115805661/236521038-19289505-85de-462d-bd57-11336fd2adc7.png)
