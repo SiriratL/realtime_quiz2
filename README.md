@@ -62,8 +62,8 @@ docker-compose down
 ```
 
 ## Visualization
+![Weight person with nutrition checking by gender](https://user-images.githubusercontent.com/115805661/236522527-32063a2d-c5b0-43cc-94ae-7a0f5a359a6e.png)
+https://public.flourish.studio/visualisation/13657815/
 
-
-<div class="flourish-embed flourish-chart" data-src="visualisation/13657815"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
-
+![rt2](https://user-images.githubusercontent.com/115805661/236525894-4fa4bdce-2643-42a2-9f05-a4c2991615ea.png)
+https://public.flourish.studio/visualisation/13658321/
