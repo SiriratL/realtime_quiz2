@@ -1,5 +1,5 @@
 # Quiz 2 (KsqlDB)
-## How to
+## Follow these step
 
 1. Download the folder Quiz2 and extract files
 
